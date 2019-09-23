@@ -11,6 +11,7 @@ Contributed by Yuekai Zhang.
 | [Attack](#attack) | Papers on attack |
 | [Defense](#defense) | Papers on defense |
 | [Adversarial Trainning](#adversarial-trainning) |  Papers on using adversarial samples trainning|
+| [Something Fun](#something-fun) |  Interesting papers |
 
 
 
@@ -84,3 +85,7 @@ Dawn Song .* ICLR 2019. [[pdf](http://arxiv.org/abs/1809.10875)]
 *Xiong Wang, Sining Sun, Changhao Shan, Jingyong Hou, Lei Xie†, Shen Li, Xin Lei.* ICASSP 2019. [[pdf](https://ieeexplore.ieee.org/document/8683479)]
 2. **Training augmentation with adversarial examples for robust speech recognition.**
 *Sining Sun , Ching-Feng Yeh, Mari Ostendorf, Mei-Yuh Hwang, Lei Xie.* INTERSPEECH 2018. [[pdf](https://arxiv.org/abs/1806.02782)]
+
+## Something Fun
+1. **Adversarial Examples Are Not Bugs, They Are Features.**
+*Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Logan Engstrom, Brandon Tran, Aleksander Madry.* Arxiv 2019. [[pdf](https://arxiv.org/abs/1905.02175)]
