@@ -21,8 +21,8 @@ Contributed by Yuekai Zhang.
 1. **Towards Evaluating the Robustness of Neural Networks.**
 *Nicholas Carlini, David Wagner.* SP 2017. [[pdf](http://arxiv.org/abs/1608.04644)]
 ## Attack
-1. **ADVERSARIAL ATTACKS ON SPOOFING COUNTERMEASURES
-OF AUTOMATIC SPEAKER VERIFICATION.**
+1. **Adversarial Attacks on Spoofing Countermeasures
+of Automatic Speaker Verification.**
 *Songxiang Liu, Haibin Wu, Hung-yi Lee, Helen Meng.* ASRU 2019. [[pdf](https://arxiv.org/pdf/1910.08716.pdf)] 
 1. **Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition.**
 *Yao Qin,Nicholas Carlini,Ian Goodfellow,Garrison Cottrell,Colin Raffel.* ICML 2019. [[pdf](http://arxiv.org/abs/1903.10346)] [[website](http://cseweb.ucsd.edu/~yaq007/imperceptible-robust-adv.html)] 
