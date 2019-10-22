@@ -23,7 +23,7 @@ Contributed by Yuekai Zhang.
 ## Attack
 1. **Adversarial Attacks on Spoofing Countermeasures
 of Automatic Speaker Verification.**
-*Songxiang Liu, Haibin Wu, Hung-yi Lee, Helen Meng.* ASRU 2019. [[pdf](https://arxiv.org/pdf/1910.08716.pdf)] 
+*Songxiang Liu, Haibin Wu, Hung-yi Lee, Helen Meng.* ASRU 2019. [[pdf](https://arxiv.org/pdf/1910.08716.pdf)][[code](https://github.com/ano-demo/AdvAttacksASVspoof)]
 1. **Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition.**
 *Yao Qin,Nicholas Carlini,Ian Goodfellow,Garrison Cottrell,Colin Raffel.* ICML 2019. [[pdf](http://arxiv.org/abs/1903.10346)] [[website](http://cseweb.ucsd.edu/~yaq007/imperceptible-robust-adv.html)] 
 1. **Universal Adversarial Perturbations for Speech Recognition Systems.**
